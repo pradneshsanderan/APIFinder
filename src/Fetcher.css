@@ -1,0 +1,51 @@
+.Api {
+    background-image: linear-gradient(to top, #5ee7df 0%, #b490ca 100%);
+}
+
+.SearchForm {
+    min-height: 10vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.SearchBar {
+    width: 50%;
+    border: none;
+    padding: 10px;
+    
+}
+.header{
+    color: white;
+    font-weight: bold;
+    justify-content: center;
+    align-items: center;
+    padding-left: 43%;
+    font-family: cursive;
+    padding-top: 10px;
+    font-size: 50px;
+    
+    
+}
+
+.SearchButton {
+    background: rgb(74, 180, 216);
+    border: none;
+    padding: 10px 20px;
+    color: white;
+
+}
+
+.HtButton{
+    background: rgb(12, 109, 141);
+    border: none;
+    padding: 10px 20px;
+    color: white;
+}
+.searches {
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+
+}
